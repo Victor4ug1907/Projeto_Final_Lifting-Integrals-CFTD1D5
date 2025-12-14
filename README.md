@@ -14,7 +14,7 @@ $$\Delta_\lambda = \Delta - \lambda^2 \frac{\pi}{2} \mathcal{J}(n,k)$$
 - A partir de uma EDP das integrais de Dotsenko-Fateev é possível reduzir derivadas de altas ordens em derivadas de ordem 0 e 1. Nessa seção definimos as funções que descrevem essa redução.
 
 ## Parte 4:
-- Aqui definimos as integrais de Dotsenko-Fateev a partir das hipergeométricas de Gauss, analisando cautelosamente as possiveis divergências e expondo as regularizações.
+- Aqui definimos as integrais de Dotsenko-Fateev a partir das hipergeométricas de Gauss, analisando cautelosamente as possiveis divergências e realizando as devidas regularizações.
 - Sendo necessária as primeiras derivadas das integrais de DF, implementamos um algoritmo que retorna essa derivada.
 
 ## Parte 5:
