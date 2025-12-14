@@ -26,6 +26,8 @@ $$\Delta_\lambda = \Delta - \lambda^2 \frac{\pi}{2} \mathcal{J}(n,k)$$
 
 
 
-Victor Augusto de Souza Alves
-Universidade Federal de Pernambuco
+Victor Augusto de Souza Alves 
+
+Universidade Federal de Pernambuco 
+
 Projeto Final de Metodos Computacionais em Física
