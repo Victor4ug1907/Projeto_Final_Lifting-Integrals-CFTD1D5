@@ -4,8 +4,8 @@ Cálculo numérico de correções de dimensões conformes em CFT
 ## Descrição
 Este projeto investiga numericamente as integrais de correlação associadas ao levantamento (lifting) de operadores quirais de twist $\sigma_n^-$ sob a ação de modos fracionários da R-simetria $J_{-k/n}^3$ na Teoria de Campo Conforme D1-D5 (ponto de Orbifold Simétrico).
 
-O objetivo é computar a integral $\mathcal{J}_{3,k}(n)$ que determina a correção de dimensão anômala na teoria de perturbação:
-$$\Delta_\lambda = \Delta - \lambda^2 \frac{\pi}{2} \mathcal{J}_{3,k}(n)$$
+O objetivo é computar a integral $\mathcal{J}(n,k)$ que determina a correção de dimensão anômala na teoria de perturbação:
+$$\Delta_\lambda = \Delta - \lambda^2 \frac{\pi}{2} \mathcal{J}(n,k)$$
 
 ## Partes 1 e 2:
 - Definimos os coeficientes necessários para a computação da integral de lifting, além de realizar as devidas verificações
